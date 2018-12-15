@@ -1,3 +1,4 @@
+lib/
 //
 // Blackjack
 // by Or B
